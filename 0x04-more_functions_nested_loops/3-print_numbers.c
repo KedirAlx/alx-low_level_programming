@@ -4,6 +4,7 @@
  * print_numbers - prints num fron 0-9
  * Return: void
  */
+
 void print_numbers(void)
 {
 	char c;
