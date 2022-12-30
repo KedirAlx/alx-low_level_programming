@@ -4,10 +4,11 @@
  * times_table - prints times table
  * Return: void
  */
+
 void times_table(void)
 {
 	int a = 0;
-	int b =;
+	int b;
 	int rep;
 
 	while (a <= 9)
